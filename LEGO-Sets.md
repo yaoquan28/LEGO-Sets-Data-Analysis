@@ -8,7 +8,6 @@ yq
 ``` r
 #importing data and libraries
 library(tidyverse)
-library(tidytuesdayR)
 library(ggrepel)
 library(ggthemes)
 library(viridis)
