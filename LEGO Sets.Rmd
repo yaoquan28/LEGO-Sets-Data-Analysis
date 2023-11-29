@@ -5,16 +5,6 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
-Name and matriculation number of team members:
-
-Name | Matriculation number
----- | ----
-Lo Jia Xuan | A0237735X
-Khoo Hui Min Nadia | A0245118J
-Chen Yao Quan | A0238895H
-Benedick See Yu Zhen | A0216704L
-Chin Sek Yi | A0236536B
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message = FALSE, warning = FALSE, 
                       include = TRUE,
